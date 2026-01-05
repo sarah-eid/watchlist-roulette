@@ -6,7 +6,7 @@ I had a problem, as a Letterboxd user with 800+ of films on my watchlist, I ofte
 This tool randomly selects a film from your exported Letterboxd watchlist and recommends similar movies using AI-powered semantic analysis. This is a personal project and not meant as any infringement on Letterboxd's copyright.
 
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B)
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Python](https://img.shields.io/badge/Python-3.11%20recommended-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Features
