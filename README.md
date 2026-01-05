@@ -74,9 +74,11 @@ streamlit run app.py
 ## Repository Structure
 ```
 watchlist-roulette/
-├── app.py                    # Main application
-├── requirements.txt          # Python dependencies
-└── README.md                # This file
+├── app.py                          # Main Streamlit application
+├── requirements.txt                # Python dependencies
+├── .gitignore                      # Excludes cache files 
+├── LICENSE                         # MIT License
+└── README.md                       # This documentation file
 ```
 
 ## Technical Details
