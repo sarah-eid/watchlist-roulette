@@ -5,7 +5,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # --- CONFIG ---
-OMDB_API_KEY = "f5c4f4f0"
+OMDB_API_KEY = "YOUR_ACTUAL_KEY_HERE"
 
 st.set_page_config(
     page_title="Sarah's Archive Movie Selection",
@@ -187,3 +187,4 @@ if uploaded_file:
             st.error("DATABASE_MISMATCH: No intelligence found for this entry.")
 else:
     st.info("SYSTEM_IDLE: Please upload your 'watchlist.csv' to begin.")
+
