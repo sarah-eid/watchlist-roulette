@@ -83,7 +83,7 @@ watchlist-roulette/
 
 **Powered by:**
 - `sentence-transformers` - For semantic embeddings
-- `cosine-similarity` - For finding similar movies
+- `scikit-learn (cosine similarity)` - For finding similar movies
 - `OMDB API` - For movie metadata
 - `Streamlit` - For the web interface
 
