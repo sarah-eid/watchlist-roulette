@@ -116,11 +116,13 @@ watchlist-roulette/
 - First run caches embeddings for faster future use
 - Large watchlists take longer to process initially
 
+
+## Video Demo
 ---
 
 ![Sarah Archive Demo](screenshots/demo.gif)
 
-## 📄 License
+## License
 MIT License 
 
 ## 👤 Author
